@@ -4,7 +4,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 1: Core System Mechanics & Protocols (Months 1–4)
+### Phase 1: Core System Mechanics & Protocols ( 5 weeks)
 
 *Goal: Understand how the operating system, memory, and network work at the binary/kernel level. You cannot hack what you cannot build or understand.*
 
@@ -27,7 +27,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 2: Web & Application Security (Months 5–8)
+### Phase 2: Web & Application Security (6 weeks)
 
 *Goal: Master state management, authentication, and application logic vulnerabilities.*
 
@@ -48,7 +48,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 3: Binary Exploitation & Reverse Engineering (Months 9–14)
+### Phase 3: Binary Exploitation & Reverse Engineering (8 weeks)
 
 *Goal: Understand memory corruption, reverse engineer compiled binaries, and bypass system defenses.*
 
@@ -72,7 +72,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 4: OS Internals, Active Directory & DFIR (Months 15–18)
+### Phase 4: OS Internals, Active Directory & DFIR (6 weeks)
 
 *Goal: Master enterprise infrastructure, Windows architecture, and post-exploitation forensics.*
 
@@ -96,7 +96,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 5: Hardware, RF, & Embedded/IoT Systems (Months 19–22)
+### Phase 5: Hardware, RF, & Embedded/IoT Systems (6 weeks)
 
 *Goal: Break out of software and attack physical hardware, radio signals, and embedded microcontrollers.*
 
@@ -119,7 +119,7 @@ Instead of reading textbooks cover-to-cover, each module pairs **Reference Books
 
 ---
 
-### Phase 6: Specialized Domain Deep Dives (Months 23–24+)
+### Phase 6: Specialized Domain Deep Dives (7 weeks)
 
 *Goal: Apply foundational knowledge to specialized target domains like Automotive, SCADA, or Smart Contracts.*
 
