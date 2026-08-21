@@ -1,11 +1,18 @@
 [ Total Schedule: ~10 Months ]
 
   ├── Phase 1: Core Systems & Protocols   ► 5 Weeks  (~180 Hours)
+
   ├── Phase 2: Web & App Security         ► 6 Weeks  (~200 Hours)
+  
   ├── Phase 3: Binary Exploitation & RE   ► 8 Weeks  (~300 Hours)
+  
   ├── Phase 4: Windows, AD & DFIR         ► 6 Weeks  (~220 Hours)
+  
   ├── Phase 5: Hardware, RF & SDR         ► 6 Weeks  (~200 Hours)
+  
   └── Phase 6: Specialized Domain         ► 7 Weeks  (~250 Hours)
+
+
 ## plan phase by phase
 
 To study this multi-year roadmap using Scott Young’s **Ultralearning** principles, you need a system that translates heavy technical books into active, measurable skill acquisition.
