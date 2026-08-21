@@ -1,3 +1,15 @@
+#### The Most Important Rule in Ultralearning
+```
+In Chapter 1 (Metalearning), Scott emphasizes that benchmarks dictate progress, not calendar dates.
+
+The "5 weeks" or "8 weeks" markers are estimates based on standard cognitive load. In practice:
+
+    If you clear all pwn.college modules and build the raw-socket sniffer in 3 weeks, you immediately move to Phase 2.
+
+    If writing ROP chains in Phase 3 takes you 10 weeks instead of 8 to master without looking at hints, you stay in Phase 3 until you pass the benchmark.
+
+The clock measures your daily effort (5 hours of deep work), but your exam benchmarks dictate when a phase is complete.
+```
 To turn your full curriculum into a structured, multi-year **Ultralearning Track**, we need to organize it like a degree program: **Prerequisites $\rightarrow$ Core Systems $\rightarrow$ Advanced Exploitation $\rightarrow$ Specialized Domain Mastery**.
 
 Instead of reading textbooks cover-to-cover, each module pairs **Reference Books** (theory) with **Hands-on Platforms** (your "Labs & Exams") so you always have an objective way to measure progress.
