@@ -1,4 +1,5 @@
 [ Total Schedule: ~10 Months ]
+
   ├── Phase 1: Core Systems & Protocols   ► 5 Weeks  (~180 Hours)
   ├── Phase 2: Web & App Security         ► 6 Weeks  (~200 Hours)
   ├── Phase 3: Binary Exploitation & RE   ► 8 Weeks  (~300 Hours)
